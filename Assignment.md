@@ -4,7 +4,7 @@
 
 - **Full Name**: Kimanga Victor Moruri
 - **GitHub Username**:10krhinooo
-- **Email**: vkimanga@gmail.com
+- **Email**: <vkimanga@gmail.com>
 
 ## 2. Deployed Portfolio Link
 
@@ -34,19 +34,22 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ### A. Milestones and Issues
 
 ![1750875832073](image/Assignment/1750875832073.png)
-- The opened issues of the first Milestone. 
+
+- The opened issues of the first Milestone.  
 
 ![1750875888989](image/Assignment/1750875888989.png)
+
 - The closed issues for the first milestone
 
 ![1750875775827](image/Assignment/1750875775827.png)
+
 - last milestone Issues
 
 ### B. Project Board
 
 ![Includes a picture of my project board with all the issues arranged in their respectful columns ](image/Assignment/1750849918051.png)
 
- - Includes a picture of my project board with all the issues arranged in their respectful columns 
+- Includes a picture of my project board with all the issues arranged in their respectful columns  
 
 ### C. Branching
 
