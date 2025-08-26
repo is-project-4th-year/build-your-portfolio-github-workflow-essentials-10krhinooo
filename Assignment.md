@@ -2,50 +2,55 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Kimanga Victor Moruri
+- **GitHub Username**:10krhinooo
+- **Email**: <vkimanga@gmail.com>
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ (https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-10krhinooo/)
 
 ## 3. Learnings from the Git Crash Program
 
 List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
 
-Example format:
-
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+- **Using Milestones and Issues:** Breaking the portfolio into smaller tasks will be easier using GitHub Issues and grouping them into milestones. This helped me keep things under control. It gave me a clear plan of what needed to be done and made the process not feel so daunting.
+- **Commit Messages:** Writing clear, descriptive commit messages helped me keep track of the work I did and why. It was easier to understand the project status and debug bugs.
+- **Merging:** Being able to merge branches came in handy in merging different features like the contact form and animations without losing any progress and significant conflicts.
+- **Deploying Apps with GitHub:** Learning how to deploy my portfolio site with GitHub Pages made it simple for me to easily share a live copy of my work. It was faster and let me test how everything looked and functioned online.
 
 ## 4. Screenshots of Key GitHub Features
 
 Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
 
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
-
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+![1751267118850](image/Assignment/1751267118850.png)
+
+- The opened issues of the first Milestone.  
+
+![1751267142243](image/Assignment/1751267142243.png)
+
+- The closed issues for the first milestone
+
+![1751267047149](image/Assignment/1751267047149.png)
+
+- last milestone Issues
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![Includes a picture of my project board with all the issues arranged in their respectful columns ](image/Assignment/1750849918051.png)
+
+- Includes a picture of my project board with all the issues arranged in their respectful columns  
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+- ![1751051896219](image/Assignment/1751051896219.png)
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+- ![1750850217106](image/Assignment/1750850217106.png)
 
 ### E. Merge Conflict Resolution
 
